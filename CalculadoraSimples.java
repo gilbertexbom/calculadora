@@ -5,6 +5,8 @@ public class CalculadoraSimples{
         //Declaração de variáveis
         int n1, n2, total;
 
+        //o otavio esteve aqui
+
         //Criação e instância do objeto de entrada
         Scanner entrada = new Scanner(System.in);
         
