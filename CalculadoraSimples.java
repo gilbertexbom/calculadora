@@ -30,5 +30,10 @@ public class CalculadoraSimples{
          System.out.println("2 - Subtração");
          System.out.println("3 - Sair);");
 
+         //Menu
+         System.out.println("1 - soma ");
+         System.out.println("2 -Subtração ");
+         System.out.println("3 - Sair");
+
     }
 }
