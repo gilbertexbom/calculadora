@@ -26,6 +26,9 @@ public class CalculadoraSimples{
         //Saída
         System.out.println(n1 + " + " + n2 + " = " + total);
 
+         System.out.print("1 - Soma ");
+         System.out.println("2 - Subtração");
+         System.out.println("3 - Sair);");
 
     }
 }
